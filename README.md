@@ -1,4 +1,4 @@
-# New Year Sales Analysis Project
+# Python_New_Year_Sales_Analysis
 
 ## Project Overview
   This project analyzes a dataset containing sales data for New Year campaigns. It provides insights into customer demographics, purchasing behavior, and product trends to help businesses understand their target    audience and maximize revenue.
